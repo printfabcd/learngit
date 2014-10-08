@@ -1,3 +1,3 @@
 Git is a abcd control system.
-abcdefg printfabcd
+printfabcd
 Git is free software.
